@@ -1,0 +1,19 @@
+[{
+    "rank": 1,
+    "name": "演示电站",
+    "kwhkwp": 23.59,
+    "energy": 1000.66,
+    "rate": 17.5  
+},{
+    "rank": 2,
+    "name": "沁阳电站",
+    "kwhkwp": 16.33,
+    "energy": 875.21,
+    "rate": 32.9
+},{
+    "rank": 3,
+    "name": "天水白石",
+    "kwhkwp": 7.8,
+    "energy": 619.42,
+    "rate": 39.17
+}]
